@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"/> I'm Gokul Jujgar</h1>
 
+![Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/ad50125e-9064-414d-8313-cc6101ad053f)
+
 <h2 align="center">Aspiring Data Analyst | Skilled in SQL, Excel, Power BI & Python | Data Enthusiast | Lifelong Learner</h2>
 
 ### About Me 🤓
