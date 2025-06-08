@@ -1,5 +1,6 @@
-# Hello! Welcome to my Portfolio 
-<h1 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"/> I'm Gokul Jujgar</h1>
+  <h1 align="center"> Welcome to my Portfolio</h1>
+
+<h2 align="center">Hi <img loading="lazy" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"/> I'm Gokul Jujgar</h2>
 
 ![Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/ad50125e-9064-414d-8313-cc6101ad053f)
 
