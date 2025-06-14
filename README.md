@@ -73,6 +73,9 @@ Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a str
 
 ---
 
+<a href="mailto:gokuljujgar@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+</a>
 
 
 ## 🌐 Connect with Me
