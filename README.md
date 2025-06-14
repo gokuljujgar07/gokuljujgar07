@@ -73,20 +73,14 @@ Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a str
 
 ---
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gokuljujgar@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gokuljujgar@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="G-mail" height="30" width="40" />
-</a>
-
 
 
 ## 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/gokul-jujgar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="gokuljujgar@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="G-mail" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gokuljujgar@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="G-mail" height="30" width="40" />
+</a>
 <a href="https://www.kaggle.com/gokuljujgar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 <a href="https://github.com/gokuljujgar07"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
