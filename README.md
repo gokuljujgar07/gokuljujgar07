@@ -72,7 +72,6 @@ Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a str
 
 
 ---
-[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg)](mailto:gokuljujgar@gmail.com)
 
 
 
