@@ -73,6 +73,11 @@ Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a str
 
 ---
 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gokuljujgar@gmail.com" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="G-mail"
+       height="30" width="40" style="background-color: white; padding: 4px; border-radius: 6px;" />
+</a>
+
 
 
 ## 🌐 Connect with Me
