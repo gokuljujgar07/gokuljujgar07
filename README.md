@@ -72,17 +72,8 @@ Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a str
 
 
 ---
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Email Icon Test</title>
-  </head>
-  <body>
-    <a href="mailto:gokuljujgar@gmail.com">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" />
-    </a>
-  </body>
-</html>
+[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg)](mailto:gokuljujgar@gmail.com)
+
 
 
 ## 🌐 Connect with Me
