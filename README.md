@@ -12,7 +12,8 @@ Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a str
 - 🔭 I’m currently working on **SQL and Python Projects**  
 - 🌱 I’m currently learning **Data Analysis Techniques**  
 - 👯 I love collaborating on **Data Analytics & Business Analytics Projects**  
-- 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/gokuljujgar07?tab=repositories)**  
+- 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/gokuljujgar07?tab=repositories)**
+- 💼 Portfolio Website: https://gokuljujgar07.github.io/
 - 💬 Ask me about **SQL, Power BI, Python, and Data Analysis**  
 - 📫 Reach me at **gokuljujgar@gmail.com**  
 - ⚡ Fun fact **I love solving complex problems and exploring new technologies.**  
@@ -79,8 +80,10 @@ Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a str
 ## 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/gokul-jujgar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gokuljujgar@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gokuljujgar@gmail.com" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="G-mail" height="30" width="40" /></a>
+<a href="https://gokuljujgar07.github.io" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="Website" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/gokuljujgar"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
 <a href="https://github.com/gokuljujgar07"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
