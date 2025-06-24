@@ -13,7 +13,7 @@ Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a str
 - 🌱 I’m currently learning **Data Analysis Techniques**  
 - 👯 I love collaborating on **Data Analytics & Business Analytics Projects**  
 - 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/gokuljujgar07?tab=repositories)**
-- 💼 Portfolio Website: https://gokuljujgar07.github.io/
+- 💼 Portfolio Website: https://gokuljujgar07.github.io
 - 💬 Ask me about **SQL, Power BI, Python, and Data Analysis**  
 - 📫 Reach me at **gokuljujgar@gmail.com**  
 - ⚡ Fun fact **I love solving complex problems and exploring new technologies.**  
