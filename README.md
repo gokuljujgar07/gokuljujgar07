@@ -9,7 +9,7 @@
 ### About Me 🤓
 Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a strong passion for turning raw data into meaningful insights. I'm proficient in **SQL, Python, Power BI, and Excel** and always eager to learn and grow in the field of data analytics.
 
-- 🔭 I’m currently working on **SQL and Python Projects**  
+- 🔭 I’m currently working on **SQL, Python, Power BI and Tableau Projects**  
 - 🌱 I’m currently learning **Data Analysis Techniques**  
 - 👯 I love collaborating on **Data Analytics & Business Analytics Projects**  
 - 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/gokuljujgar07?tab=repositories)**
@@ -34,10 +34,10 @@ Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a str
       <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
       <br/>Power BI
     </td>
-<!--     <td align="center" width="96">
+    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
       <br/>Tableau
-    </td> -->
+    </td>
     <td align="center" width="96">
       <img src="https://avatars.githubusercontent.com/u/44556874?s=200&v=4" alt="excel" width="40" height="40"/>
       <br/>Excel
