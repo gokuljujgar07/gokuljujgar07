@@ -4,10 +4,10 @@
 
 ![Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/ad50125e-9064-414d-8313-cc6101ad053f)
 
-<h2 align="center">Aspiring Data Analyst | Skilled in SQL, Excel, Power BI & Python | Data Enthusiast | Lifelong Learner</h2>
+<h2 align="center">Aspiring Data Analyst | Skilled in SQL, Excel, Python, Power BI & Tableau | Data Enthusiast | Lifelong Learner</h2>
 
 ### About Me 🤓
-Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a strong passion for turning raw data into meaningful insights. I'm proficient in **SQL, Python, Power BI, and Excel** and always eager to learn and grow in the field of data analytics.
+Hello everyone, I'm **Gokul Laxman Jujgar**, an aspiring Data Analyst with a strong passion for turning raw data into meaningful insights. I'm proficient in **SQL, Excel, Python, Power BI, and Tableau** and always eager to learn and grow in the field of data analytics.
 
 - 🔭 I’m currently working on **SQL, Python, Power BI and Tableau Projects**  
 - 🌱 I’m currently learning **Data Analysis Techniques**  
